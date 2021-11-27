@@ -1,5 +1,6 @@
 # WinCrasher
 Simple windows crasher for debugging purposes.
+(Includes logo source file [Sothink logo maker])
 
 # Manual Building
 (This shouldn't be too hard.)
